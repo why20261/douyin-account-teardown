@@ -3,6 +3,10 @@ name: douyin-account-teardown
 description: 获取抖音真实一手数据，逆向拆解抖音平台账号，根据账号互动数据及账号作品数据，产出可复刻的运营手册。当用户提出「拆解某账号」「分析对标号」「看看XX号为什么火」「复刻这个账号的风格」「抓取抖音账号数据」「竞品账号分析」「对标账号数据」「账号诊断」等需求时使用。产出结构化数据 + 互动指标 + 形态拆解 + 差距定位。支持四大能力：(1) 关键词搜索视频/图文，可按点赞数、发布时间、视频时长、内容类型筛选排序；(2) 实时热榜查询，获取抖音热搜词条与热度数据；(3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；(4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。
 license: MIT
 version: "1.4.1"
+display_name: 🎯抖音账号拆解
+display_name_en: DouYin Account Teardown
+description_zh: 获取抖音真实一手数据，逆向拆解抖音平台账号，根据账号互动数据及账号作品数据，产出可复刻的运营手册。当用户提出「拆解某账号」「分析对标号」「看看XX号为什么火」「复刻这个账号的风格」「抓取抖音账号数据」「竞品账号分析」「对标账号数据」「账号诊断」等需求时使用。产出结构化数据 + 互动指标 + 形态拆解 + 差距定位。
+description_en: Acquire authentic first-hand DouYin data for reverse account deconstruction; produce replicable operation manuals from account engagement and content data. Triggered by requests for account deconstruction, benchmark analysis, viral account research, style replication, DouYin data crawling, competitor/benchmark account analysis, or account diagnosis. Deliver structured data, engagement metrics, pattern breakdown and gap identification.
 metadata:
   openclaw:
     emoji: "🎬"
